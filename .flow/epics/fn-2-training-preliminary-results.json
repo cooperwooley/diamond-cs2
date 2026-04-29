@@ -1,0 +1,13 @@
+{
+  "branch_name": "fn-2-training-preliminary-results",
+  "created_at": "2026-03-31T16:36:22.752627Z",
+  "depends_on_epics": [],
+  "id": "fn-2-training-preliminary-results",
+  "next_task": 1,
+  "plan_review_status": "unknown",
+  "plan_reviewed_at": null,
+  "spec_path": ".flow/specs/fn-2-training-preliminary-results.md",
+  "status": "open",
+  "title": "Training & Preliminary Results",
+  "updated_at": "2026-03-31T16:36:48.052245Z"
+}

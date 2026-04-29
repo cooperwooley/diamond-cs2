@@ -1,0 +1,42 @@
+# Data (top-level data directory only, not src/data/)
+/data/
+dataset/
+
+# Training outputs
+wandb/
+outputs/
+results/figures/
+results/cloud_training/
+checkpoints/
+saved_runs/
+slurm*
+experiments/
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.venv/
+venv/
+
+# Local notes (do not publish)
+REPORT_NOTES.md
